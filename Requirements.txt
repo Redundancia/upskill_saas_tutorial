@@ -17,6 +17,6 @@ token. Rails should save customer token and user information to our database.
 User Profiles
 * Each user should have one profile
 * User should see link to new profile from singing up
-* User should be able to create nad view their user profile
+* User should be able to create and view their user profile
 * User profile shold have a profile picture
 * User should be able to view all user profiles
